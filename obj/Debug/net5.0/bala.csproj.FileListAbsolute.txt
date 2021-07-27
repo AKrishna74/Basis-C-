@@ -1,0 +1,16 @@
+C:\Users\AARTHAN\Documents\bala\bin\Debug\net5.0\bala.exe
+C:\Users\AARTHAN\Documents\bala\bin\Debug\net5.0\bala.deps.json
+C:\Users\AARTHAN\Documents\bala\bin\Debug\net5.0\bala.runtimeconfig.json
+C:\Users\AARTHAN\Documents\bala\bin\Debug\net5.0\bala.runtimeconfig.dev.json
+C:\Users\AARTHAN\Documents\bala\bin\Debug\net5.0\bala.dll
+C:\Users\AARTHAN\Documents\bala\bin\Debug\net5.0\ref\bala.dll
+C:\Users\AARTHAN\Documents\bala\bin\Debug\net5.0\bala.pdb
+C:\Users\AARTHAN\Documents\bala\obj\Debug\net5.0\bala.csproj.AssemblyReference.cache
+C:\Users\AARTHAN\Documents\bala\obj\Debug\net5.0\bala.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AARTHAN\Documents\bala\obj\Debug\net5.0\bala.AssemblyInfoInputs.cache
+C:\Users\AARTHAN\Documents\bala\obj\Debug\net5.0\bala.AssemblyInfo.cs
+C:\Users\AARTHAN\Documents\bala\obj\Debug\net5.0\bala.csproj.CoreCompileInputs.cache
+C:\Users\AARTHAN\Documents\bala\obj\Debug\net5.0\bala.dll
+C:\Users\AARTHAN\Documents\bala\obj\Debug\net5.0\ref\bala.dll
+C:\Users\AARTHAN\Documents\bala\obj\Debug\net5.0\bala.pdb
+C:\Users\AARTHAN\Documents\bala\obj\Debug\net5.0\bala.genruntimeconfig.cache
