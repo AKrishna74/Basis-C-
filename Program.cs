@@ -34,6 +34,7 @@ namespace bala
 
 
         }
+        
        public void Numsign()
         {
             Console.Write("Give Your Number Here:");
